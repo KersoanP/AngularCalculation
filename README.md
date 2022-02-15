@@ -204,7 +204,7 @@ h2{
   
 </Cylinder-Vol>
 
-<div class="footer">DEVELOPED BY: kadin samson.L</div>
+<div class="footer">DEVELOPED BY: kersoan.P</div>
 
     </div>
 
